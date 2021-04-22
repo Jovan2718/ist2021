@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Prodavnica SYSTEM "proizvodi.dtd">
+<Prodavnica>
+  <Proizvod>
+    <KategorijaProizvoda tip="Laptop"></KategorijaProizvoda>
+    <Cena valuta="rsd">360000</Cena>
+    <TekstProizvoda>ASUS ROG Zephyrus</TekstProizvoda>
+    <Oznaka>Asus</Oznaka>
+    <Oznaka>Laptop</Oznaka>
+    <Oznaka>Zephyrus</Oznaka>
+    <Oznaka>ROG</Oznaka>
+    <Akcija cena="298990" datumIsteka="2021-4-27"></Akcija>
+  </Proizvod>
+  <Proizvod>
+    <KategorijaProizvoda tip="Monitor"></KategorijaProizvoda>
+    <Cena valuta="rsd">40000</Cena>
+    <TekstProizvoda>Benq Zowie XL2731 27 inch 144 Hz</TekstProizvoda>
+    <Oznaka>Benq</Oznaka>
+    <Oznaka>Zowie</Oznaka>
+    <Oznaka>27 inch</Oznaka>
+    <Oznaka>144hz</Oznaka>
+    <Akcija cena="35000" datumIsteka="2021-4-29"></Akcija>
+  </Proizvod>
+  <Proizvod>
+    <KategorijaProizvoda tip="Mis"></KategorijaProizvoda>
+    <Cena valuta="rsd">12990</Cena>
+    <TekstProizvoda>LOGITECH Gejmerski miš G502 HERO</TekstProizvoda>
+    <Oznaka>G502</Oznaka>
+    <Oznaka>Gaming</Oznaka>
+    <Oznaka>Mis</Oznaka>
+    <Oznaka>Logitech</Oznaka>
+    <Akcija cena="9990" datumIsteka="2021-5-1"></Akcija>
+  </Proizvod>
+  <Proizvod>
+    <KategorijaProizvoda tip="Tastatura"></KategorijaProizvoda>
+    <Cena valuta="rsd">10000</Cena>
+    <TekstProizvoda>Tastatura Corsair K55 RGB</TekstProizvoda>
+    <Oznaka>Tastatura</Oznaka>
+    <Oznaka>Corsair</Oznaka>
+    <Oznaka>K55</Oznaka>
+    <Akcija cena="8550" datumIsteka="2021-4-27"></Akcija>
+  </Proizvod>
+  <Proizvod>
+    <KategorijaProizvoda tip="Slusalice"></KategorijaProizvoda>
+    <Cena valuta="rsd">14990</Cena>
+    <TekstProizvoda>HYPERX gejmerske slušalice CLOUD ALPHA PRO </TekstProizvoda>
+    <Oznaka>Slusalice</Oznaka>
+    <Oznaka>HYPERX</Oznaka>
+    <Oznaka>CLOUD ALPHA</Oznaka>
+    <Oznaka>Gaming</Oznaka>
+    <Akcija cena="8550" datumIsteka="2021-4-27"></Akcija>
+  </Proizvod>
+  <Proizvod>
+    <KategorijaProizvoda tip="Stolica"></KategorijaProizvoda>
+    <Cena valuta="rsd">49999</Cena>
+    <TekstProizvoda>Gejmerska stolica eShark ESL-GC2 Takamikura</TekstProizvoda>
+    <Oznaka>Stolica</Oznaka>
+    <Oznaka>eShark</Oznaka>
+    <Oznaka>Takamikura</Oznaka>
+    <Oznaka>Gaming</Oznaka>
+    <Akcija cena="34990" datumIsteka="2021-4-30"></Akcija>
+  </Proizvod>
+</Prodavnica>
